@@ -1,2 +1,2 @@
-Lorem ipsum
+Belajar tentang git
 
