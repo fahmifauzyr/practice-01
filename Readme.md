@@ -1,2 +1,2 @@
-Lorem ipsum
+Hello world
 
