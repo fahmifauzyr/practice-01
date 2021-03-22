@@ -1,3 +1,2 @@
-Nice Try dude
-Hello world brother
+Lorem ipsum
 
